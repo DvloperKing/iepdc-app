@@ -1,6 +1,8 @@
 {
   "home": "Home",
-  "about": "About",
+  "about": "About Us",
+  "live": "Live",
+  "connect": "Connect",
   "footer": {
     "contact": "Connect",
     "phone": "Phone",

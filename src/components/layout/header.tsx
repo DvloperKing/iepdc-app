@@ -39,15 +39,16 @@ function Header() {
             <li className="nav-item">
               <span className="nav-link ">{t("about")}</span>
             </li>
+            <li className="nav-item">
+              <span className="nav-link ">{t("connect")}</span>
+            </li>
+
+            <li className="nav-item">
+              <span className="nav-link ">{t("live")}</span>
+            </li>
             {/* <li className="nav-item">
-              <span className="nav-link ">{t("home")}</span>
-            </li>
-            <li className="nav-item">
-              <span className="nav-link ">{t("home")}</span>
-            </li>
-            <li className="nav-item">
               <span className="nav-link">{t("home")}</span>
-            </li> */}
+            </li>  */}
           </ul>
         </div>
       </div>
