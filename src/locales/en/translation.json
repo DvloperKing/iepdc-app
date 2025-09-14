@@ -1,0 +1,11 @@
+{
+  "home": "Home",
+  "about": "About",
+  "footer": {
+    "contact": "Connect",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "social": "Social"
+  }
+}

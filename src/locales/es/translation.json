@@ -1,0 +1,11 @@
+{
+  "home": "Inicio",
+  "about": "Nosotros",
+  "footer": {
+    "contact": "Contacto",
+    "phone": "Teléfono",
+    "email": "Correo electrónico",
+    "address": "Dirección",
+    "social": "Redes sociales"
+  }
+}
