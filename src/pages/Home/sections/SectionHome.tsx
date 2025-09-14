@@ -3,8 +3,8 @@ import { useMediaQuery } from "react-responsive";
 const SectionHome = () => {
   const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
   const bgImage = isMobile
-    ? "/public/img/bg_desktop.jpg"
-    : "/public/img/bg_desktop.jpg";
+    ? "https://res.cloudinary.com/dwcat0xhk/image/upload/f_auto,q_auto/v1757818891/bg_desktop_ilrfbx.jpg"
+    : "https://res.cloudinary.com/dwcat0xhk/image/upload/f_auto,q_auto/v1757818891/bg_desktop_ilrfbx.jpg";
   return (
     <section
       data-aos="fade-up"
