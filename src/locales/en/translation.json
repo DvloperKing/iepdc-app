@@ -8,6 +8,11 @@
     "phone": "Phone",
     "email": "Email",
     "address": "Address",
-    "social": "Social"
+    "social": "Social",
+    "copyright": "All rights reserved"
+  },
+  "Home": {
+    "title": "Bread of Heaven Evangelical Church",
+    "subtitle": "We are a people seeking to please God."
   }
 }

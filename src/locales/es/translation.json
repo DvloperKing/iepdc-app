@@ -8,6 +8,11 @@
     "phone": "Teléfono",
     "email": "Correo electrónico",
     "address": "Dirección",
-    "social": "Redes sociales"
+    "social": "Redes sociales",
+    "copyright": "Todos los derechos reservados"
+  },
+  "Home": {
+    "title": "Iglesia Evangélica Pan del Cielo",
+    "subtitle": "SOMOS UN PUEBLO BUSCANDO AGRADAR A DIOS"
   }
 }

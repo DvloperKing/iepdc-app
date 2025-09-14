@@ -88,7 +88,7 @@ const Footer: React.FC = () => {
       <hr className="border-light opacity-25" />
       <div className="text-center small mt-3">
         <p className="mb-0 text-black fw-bold">
-          © {currentYear} | EPDC. Todos los derechos reservado
+          © {currentYear} | IEPDC. {t("footer.copyright")}
         </p>
       </div>
     </footer>
