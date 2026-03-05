@@ -5,8 +5,8 @@ const SectionHome = () => {
   const isMobile = useMediaQuery({ query: "(max-width: 768px)" });
   const { t } = useTranslation();
   const bgImage = isMobile
-    ? "https://res.cloudinary.com/dwcat0xhk/image/upload/f_auto,q_auto/v1757818891/bg_desktop_ilrfbx.jpg"
-    : "https://res.cloudinary.com/dwcat0xhk/image/upload/f_auto,q_auto/v1757818891/bg_desktop_ilrfbx.jpg";
+    ? "https://res.cloudinary.com/dhzfbp6wl/image/upload/f_auto,q_auto/v1772688783/bg_iepdc_vksux7.webp"
+    : "https://res.cloudinary.com/dhzfbp6wl/image/upload/f_auto,q_auto/v1772688783/bg_iepdc_vksux7.webp";
   return (
     <section
       data-aos="fade-up"
@@ -15,13 +15,13 @@ const SectionHome = () => {
       style={{
         height: "100vh",
         backgroundImage: `url(${bgImage})`,
-        backgroundSize: "cover",
+        backgroundSize: "contain",
         backgroundPosition: "center",
       }}
     >
       <div
         className="position-absolute top-0 start-0 w-100 h-100"
-        style={{ backgroundColor: "rgba(0, 0, 0, 0.4)", zIndex: 1 }}
+        style={{ backgroundColor: "rgba(0, 0, 0, 0.61)", zIndex: 1 }}
       />
       <div className="container position-relative" style={{ zIndex: 2 }}>
         <h1
